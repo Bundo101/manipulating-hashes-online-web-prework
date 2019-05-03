@@ -8,7 +8,8 @@ def second_challenge
 
   #code your solution here!
   groceries.map do |type, detail|
-    
+    type.values
+  end
   groceries
   
 
